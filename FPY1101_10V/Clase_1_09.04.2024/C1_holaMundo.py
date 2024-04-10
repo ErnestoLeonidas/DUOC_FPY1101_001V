@@ -11,9 +11,9 @@ print(f"Edad {edad*5}")
 
 # comentario
 # esto tambien es un comentario
-# ctrl k + c : comenta una linea
+# ctrl k + c : comenta una línea
 # ctrl k + u : descomenta
 print(f"Nombre: \t {nombre}")
-print(f"Apellido: \t {apellido}")
+print(f"Apellido: \t {apellido}") 
 print(f"Edad: \t\t {edad}")
 print(f"Altura: \t {altura}")
